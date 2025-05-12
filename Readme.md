@@ -31,4 +31,4 @@ Bem-vindo ao repositório do projeto Açai Mania. Este é um site para uma Acait
 ## Contato
 
 - Email: devmarcoslkd@gmail.com
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/marcos-araujo-28b563292/)
+- LinkedIn: [Marcos Almeida](https://www.linkedin.com/in/marcos-araujo-28b563292/)
